@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello World 👋
+
+# 💬About me
+ 
+  I'm a computer engineering student at [CEFET-MG](https://www.cefetmg.br) in Brazil & Marketing analyst and web dev at [Commit jr](https://commitjr.com)
 
 <!--
 **Italo-Donato/Italo-Donato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
