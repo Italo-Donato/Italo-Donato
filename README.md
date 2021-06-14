@@ -1,6 +1,6 @@
-### Hello World 👋
+# Hello World 👋
 
-# 💬About me
+### 💬About me
  
   I'm a computer engineering student at [CEFET-MG](https://www.cefetmg.br) in Brazil & Marketing analyst and web dev at [Commit jr](https://commitjr.com)
 
